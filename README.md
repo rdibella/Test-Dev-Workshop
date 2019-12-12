@@ -1,11 +1,3 @@
-<table class="tbl-heading"><tr><td class="td-logo">(README.md)
-
-Last Updated:<br>November 08, 2018
-</td>
-<td class="td-banner">
-# Getting Started with Autonomous Transaction Processing
-</td></tr><table>
-
 
 This workshop walks you through all the steps to get started using the **Oracle Autonomous Transaction Processing**. Provision a database, scale ATP, load data, configure node.js with ATP and building microservices on ATP
 

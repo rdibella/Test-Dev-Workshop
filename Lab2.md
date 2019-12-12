@@ -1,10 +1,6 @@
-<table class="tbl-heading"><tr><td class="td-logo">![](images/obe_tag.png)
 
-November 08, 2018
-</td>
-<td class="td-banner">
-# Lab 2: Secure Connectivity and Data Access
-</td></tr><table>
+## Lab 2: Secure Connectivity and Data Access
+
 
 ## Introduction
 

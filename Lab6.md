@@ -28,6 +28,8 @@ The Autonomous cloud service takes it a step further. It is self managing, self 
 
 - Create a folder and download this repository
 ```
+mkdir Lab6 && cd Lab6
+
 git clone https://github.com/rdibella/ATPDocker.git
 
 ```

@@ -254,16 +254,17 @@ mkdir Lab5
 
 cd Lab5
 
+mkdir ATPnodeapp && cd ATPnodeapp
+
 wget --no-check-certificate --content-disposition https://github.com/oracle/learning-library/blob/master/workshops/autonomous-transaction-processing/scripts/500/ATPnodeapp.zip?raw=true
 ```
 
 - Unzip ATPnodeapp.zip
 
 ```
-mkdir ATPnodeapp && cd ATPnodeapp
-
-unzip /home/opc/Lab5/ATPnodeapp.zip
+unzip /home/opc/Lab5/ATPnodeapp/ATPnodeapp.zip
 ```
+
 Now that you have a sample application setup, lets get your database's secure wallet for connectivity
 
 ### **STEP 6: Upload connection wallet and run sample app**
