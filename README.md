@@ -60,11 +60,8 @@ Read on to begin your Getting Started journey with Oracle Autonomous Transaction
 
 **Key Objectives**:
 
-- Learn how to use the SQL Developer Data Import Wizard
-- Learn how to upload files to the OCI Object Storage
-- Learn how to define object store credentials for ATP
+- Learn how to use the SQL Developer 
 - Learn how to create tables in your database
-- Learn how to load data from the Object Store
 
 **[Click here to run Lab 4](Lab4.md)**
 

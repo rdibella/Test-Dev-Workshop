@@ -38,10 +38,6 @@ To **log issues**, click [here](https://github.com/oracle/learning-library/issue
 
 -   You are now ready to move to the next lab.
 
-<table>
-<tr><td class="td-logo">[![](images/obe_tag.png)](#)</td>
-<td class="td-banner">
+
 ## Great Work - All Done!
-</td>
-</tr>
-<table>
+
