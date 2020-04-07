@@ -79,8 +79,9 @@ Refer to labs <a href="./Lab1.md" target="_blank">LabGuide1.md</a> and <a href="
 
  
 ```
-cd /home/opc/Lab6/ATPDocker/CTD_OOW
-
+cd /home/opc/Lab6/ATPDocker/
+mkdir CTD_OOW
+cd CTD_OOW
 unzip YOUR_WALLET.zip -d /path_to_app_folder/ATPDocker/CTD_OOW/
 
 nano sqlnet.ora
