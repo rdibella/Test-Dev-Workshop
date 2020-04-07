@@ -320,6 +320,8 @@ export TNS_ADMIN=/home/opc/Lab5/ATPnodeapp/wallet_YOURWALLET/
 - **connectString**: 'yourdbname_high'
 
 ```
+cd /home/opc/Lab5/ATPnodeapp
+
 nano dbconfig.js
 
 module.exports= {
@@ -332,8 +334,6 @@ connectString: 'atplab_high'
 - Run server.js
 
 ```
-cd /home/opc/Lab5/ATPnodeapp
-
 npm install oracledb
 
 node server.js
